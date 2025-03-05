@@ -25,3 +25,16 @@ The model is trained on a dataset containing key health metrics like:
 - Heart Rate
 - Diabetes Status
 - Other relevant medical parameters
+## 🖥️ Usage
+1️⃣ Enter health details in the form.
+2️⃣ Click "Predict" to check heart disease risk.
+3️⃣ View instant predictions.
+
+🚀 Future Enhancements
+✨ Advanced ML models for higher accuracy
+✨ Cloud deployment for wider accessibility
+✨ Enhanced UI with React.js
+✨ User authentication for personalized tracking
+
+👨‍💻 Developer
+🔹 Lakshya Lohani
