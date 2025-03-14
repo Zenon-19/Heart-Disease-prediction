@@ -25,6 +25,7 @@ The model is trained on a dataset containing key health metrics like:
 - Heart Rate
 - Diabetes Status
 - Other relevant medical parameters
+  
 ## 🖥️ Usage
 1️⃣ Enter health details in the form.
 2️⃣ Click "Predict" to check heart disease risk.
